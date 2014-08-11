@@ -1,0 +1,10 @@
+*~
+dist/
+.cabal-sandbox/
+cabal.sandbox.config
+add-source-timestamps
+logs/
+packages/
+share/
+x86_64-linux-ghc-7.8.3-packages.conf.d/
+x86_64-linux-ghc-7.8.3/
